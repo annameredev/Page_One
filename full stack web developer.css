@@ -1,0 +1,30 @@
+body {
+	text-align: center;
+	background: url('//Macintosh HD/Users/Anita/Pictures/CAM01400.png') no-repeat top center fixed;
+	background-size: cover;
+}
+label {
+	color: rgba(100,200,100,1);
+}
+.header {
+	color: white;
+	padding: 50px;
+}
+.intro {
+	background-color: rgba(123,232,111,.5);
+}
+.services {
+	background-color: rgba(100,200,100,.75);
+}
+.call-to-action {
+	background-color: rgba(166,127,10,.75);
+}
+.icon {
+	height: 150px;
+	width: 150px;
+	border-radius: 70px
+}
+.footer-icon {
+	height: 50px;
+	width: 50px;
+}
